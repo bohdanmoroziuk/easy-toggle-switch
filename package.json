@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.6",
     "inferno": "^7.2.1",
     "inferno-scripts": "7.0.4"
   },
