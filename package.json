@@ -1,6 +1,7 @@
 {
   "name": "easy-toggle-switches",
   "version": "0.1.0",
+  "description": "Toggle-switch component",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
